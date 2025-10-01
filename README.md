@@ -50,7 +50,17 @@
 
   <a class="button" href="https://t.me/RADIO_YES" target="_blank">📲 Telegram Radio YES</a>
   <a class="button" href="https://youtube.com/@RADIOYES" target="_blank">🎥 Diretta LIVE</a>
-  <a class="button" href="https://radioyes.it/contest" target="_blank">🏆 CONTEST LIVE</a>
+  <a class="button" href="https:/<h2 style="color:#ff3366; margin-top:30px;">🎶 Ascolta Radio per Genere Musicale</h2>
+
+<a class="button" href="https://www.radio.it/genre/pop" target="_blank">🎤 Pop</a>
+<a class="button" href="https://www.radio.it/genre/rock" target="_blank">🎸 Rock</a>
+<a class="button" href="https://www.radio.it/genre/jazz" target="_blank">🎷 Jazz</a>
+<a class="button" href="https://www.radio.it/genre/classical" target="_blank">🎻 Classica</a>
+<a class="button" href="https://www.radio.it/genre/hip-hop" target="_blank">🎧 Hip-Hop</a>
+<a class="button" href="https://www.radio.it/genre/chillout" target="_blank">🧘 Chillout</a>
+<a class="button" href="https://www.radio.it/genre/electro" target="_blank">⚡ Elettronica</a>
+<a class="button" href="https://www.radio.it/genre/oldies" target="_blank">📻 Oldies</a>
+/contest" target="_blank">🏆 CONTEST LIVE</a>
   <a class="button" href="https://www.ilmeteo.it/" target="_blank">🌦️ Meteo</a>
   <a class="button" href="https://www.ansa.it/" target="_blank">📰 Cronaca</a>
   <a class="button" href="https://www.oroscopo.it/" target="_blank">🔮 Oroscopo</a>
