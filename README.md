@@ -55,7 +55,6 @@
   <!-- Logo cliccabile -->
   <div class="logo">
     <a href="https://radio.it/listen/radio-yes/castel-san-giorgio" target="_blank">
-      <img src="<!DOCTYPE html>
 <html lang="it">
 <head>
   <meta charset="UTF-8">
