@@ -58,7 +58,7 @@
 
   <!-- Pulsanti -->
   <div class="button-container">
-    <a href="https://t.me/radioyes" class="button">Telegram Radio YES</a>
+    <a href="https://t.me/RADIO_YES" class="button">Telegram Radio YES</a>
     <a href="https://radiofm.example.com" class="button">Radio FM – Generi Musicali</a>
     <a href="https://meteo.example.com" class="button">Meteo</a>
     <a href="https://cronaca.example.com" class="button">Cronaca</a>
