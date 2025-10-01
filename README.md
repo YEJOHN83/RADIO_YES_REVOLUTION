@@ -58,11 +58,11 @@
 
   <!-- Pulsanti -->
   <div class="button-container">
-    <a href="https://t.me/RADIO_YES" class="button">Telegram Radio YES</a>
-    <a href="https://radiofm.example.com" class="button">Radio FM – Generi Musicali</a>
-    <a href="https://meteo.example.com" class="button">Meteo</a>
-    <a href="https://cronaca.example.com" class="button">Cronaca</a>
-    <a href="https://oroscopo.example.com" class="button">Oroscopo</a>
+    <a href="https://t.me/radioyes" class="button" target="_blank">Telegram Radio YES</a>
+    <a href="https://radio.garden/listen/radio-yes/castel-san-giorgio" class="button" target="_blank">Radio FM – Generi Musicali</a>
+    <a href="https://www.ilmeteo.it" class="button" target="_blank">Meteo</a>
+    <a href="https://www.ansa.it/sito/notizie/cronaca/" class="button" target="_blank">Cronaca</a>
+    <a href="https://www.oroscopo.it" class="button" target="_blank">Oroscopo</a>
   </div>
 
 </body>
