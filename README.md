@@ -59,7 +59,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Radio YES REV♥LUTION</title>
+  <title>Radio YES       REV♥LUTION</title>
   <style>
     body {
       background-color: #000;
