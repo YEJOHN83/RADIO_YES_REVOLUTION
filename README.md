@@ -110,7 +110,9 @@
   <!-- Logo cliccabile -->
   <div class="logo">
     <a href="https://radio.it/listen/radio-yes/castel-san-giorgio" target="_blank">
-      <img src="https://i.ibb.co/p6Y23gHB/IMG-8464.png" alt="Radio YES REV♥LUTION">
+      <img src="https://i.ibb.co/p6Y23gHB/IMG-8464.png" alt="Radio_YES 
+        
+   REV♥LUTION">
     </a>
   </div>
 
@@ -126,6 +128,7 @@
 </body>
 </html>
 " Founder : Giovanni Umana 
+
 "Radio YES REV♥LUTION">
 
 
