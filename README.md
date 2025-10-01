@@ -3,62 +3,67 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RADIO_YES_REVOLUTION</title>
+  <title>Radio YES REV♥LUTION</title>
   <style>
     body {
-      margin: 0;
-      font-family: Arial, sans-serif;
       background-color: #000;
       color: #fff;
+      font-family: Arial, sans-serif;
       text-align: center;
+      margin: 0;
+      padding: 0;
     }
-    header {
-      padding: 20px;
-    }
-    h1 {
-      font-size: 2.5em;
-      color: #ff3366;
-    }
-    .heart {
-      font-size: 4em;
-      color: #ff3366;
-    }
-    a.button {
-      display: block;
-      margin: 10px auto;
-      padding: 12px 20px;
-      background-color: #ff3366;
-      color: white;
-      text-decoration: none;
-      border-radius: 8px;
-      width: 260px;
-      font-size: 1em;
-    }
-    footer {
+
+    .logo {
       margin-top: 30px;
-      font-size: 0.9em;
-      color: #aaa;
+    }
+
+    .logo img {
+      max-width: 250px;
+      height: auto;
+    }
+
+    .button-container {
+      margin-top: 40px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .button {
+      background-color: #444;
+      color: #fff;
+      padding: 15px 25px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      text-decoration: none;
+      width: 80%;
+      max-width: 300px;
+      transition: background-color 0.3s ease;
+    }
+
+    .button:hover {
+      background-color: #666;
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>RADIO_YES REV♥LUTION</h1>
-    <div class="heart">❤️</div>
-    <p>Founder: Giovanni Umana</p>
-  </header>
 
-  <a class="button" href="https://t.me/RADIO_YES" target="_blank">📲 Telegram Radio YES</a>
-  <a class="button" href="https://youtube.com/@RADIOYES" target="_blank">🎥 Diretta LIVE</a>
-  <a class="button" href="https://radioyes.it/contest" target="_blank">🏆 CONTEST LIVE</a>
-  <a class="button" href="https://www.radio.it/genre" target="_blank">🎧 Radio FM – Generi Musicali</a>
-  <a class="button" href="https://www.ilmeteo.it/" target="_blank">🌦️ Meteo</a>
-  <a class="button" href="https://www.ansa.it/" target="_blank">📰 Cronaca</a>
-  <a class="button" href="https://www.oroscopo.it/" target="_blank">🔮 Oroscopo</a>
+  <!-- Logo -->
+  <div class="logo">
+    <img src="logo-radio-yes.png" alt="Radio YES REV♥LUTION">
+  </div>
 
-  <footer>
-    © 2025 RADIO_YES REV♥LUTION – Powered by Giovanni
-  </footer>
+  <!-- Pulsanti -->
+  <div class="button-container">
+    <a href="https://t.me/radioyes" class="button">Telegram Radio YES</a>
+    <a href="https://radiofm.example.com" class="button">Radio FM – Generi Musicali</a>
+    <a href="https://meteo.example.com" class="button">Meteo</a>
+    <a href="https://cronaca.example.com" class="button">Cronaca</a>
+    <a href="https://oroscopo.example.com" class="button">Oroscopo</a>
+  </div>
+
 </body>
 </html>
-
