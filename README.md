@@ -51,9 +51,11 @@
 </head>
 <body>
 
-  <!-- Logo -->
+  <!-- Logo cliccabile -->
   <div class="logo">
-    <img src="logo-radio-yes.png" alt="Radio YES REV♥LUTION">
+    <a href="https://radio.garden/listen/radio-yes/castel-san-giorgio" target="_blank">
+      <img src="logo-radio-yes.jpeg" alt="Radio YES REV♥LUTION">
+    </a>
   </div>
 
   <!-- Pulsanti -->
@@ -67,3 +69,4 @@
 
 </body>
 </html>
+
