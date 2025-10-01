@@ -63,3 +63,10 @@ RADIO_YES
   </footer>
 </body>
 </html>
+<a class="button" href="https://t.me/RADIO_YES" target="_blank">📲 Telegram Radio YES</a>
+<a class="button" href="https://youtube.com/@RADIOYES" target="_blank">🎥 Diretta LIVE</a>
+<a class="button" href="https://radioyes.it/contest" target="_blank">🏆 CONTEST LIVE</a>
+<a class="button" href="https://radioyes.it/fm" target="_blank">🎧 FM Radio YES</a>
+<a class="button" href="https://www.ilmeteo.it/" target="_blank">🌦️ Meteo</a>
+<a class="button" href="https://www.ansa.it/" target="_blank">📰 Cronaca</a>
+<a class="button" href="https://www.oroscopo.it/" target="_blank">🔮 Oroscopo</a>
